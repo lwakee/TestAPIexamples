@@ -1,0 +1,19 @@
+[{"id": 1,
+  "name": "Текущий счёт",
+  "number": "•• 0668",
+  "balance": 992821429,
+  "currency": "RUB"
+},
+{"id": 2,
+"name": "Текущий счёт",
+"number": "•• 9192",
+"balance" : 2877210,
+"currency": "USD"
+},
+{"id": 3,
+"name": "Текущий зарплатный счёт",
+"number": "•• 5257",
+"balance": 1204044,
+"currency": "RUB"
+}
+]

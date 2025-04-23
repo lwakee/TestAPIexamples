@@ -1,0 +1,25 @@
+{
+  "success": {"type": "boolean"},
+  "type": "object",
+  "data": {
+    "type": "object",
+    "name": {
+      "type": "string"
+    },
+    "surname": {
+      "type": "string"
+    },
+    "patronymic": {
+      "type": "string"
+    },
+    "telephone": {
+      "type": "string"
+    },
+    "birthdate": {
+      "type": "string"
+    },
+    "passport": {
+      "type": "string"
+    }
+  }
+}
